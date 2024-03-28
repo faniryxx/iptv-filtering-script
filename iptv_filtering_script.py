@@ -1,7 +1,7 @@
 import argparse
 import os
-import sys
 import re
+import sys
 
 
 parser = argparse.ArgumentParser("iptv_filtering_script")
